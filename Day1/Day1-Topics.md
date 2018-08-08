@@ -3,6 +3,8 @@
 
 #### 1. First 4 weeks plan.
 
+Phase-1: https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlBPq8/edit?usp=sharing
+
 #### 2. Maven Intro.
 
 #### 3. Maven installation on Windows.
