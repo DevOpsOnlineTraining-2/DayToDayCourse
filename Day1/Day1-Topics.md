@@ -10,3 +10,7 @@
 #### 4. Create a Linux machine on AWS.
 
 #### 5. Maven installation on Linux machine.
+
+
+![build-and-deploy](https://user-images.githubusercontent.com/24622526/40571519-be89b376-6089-11e8-9404-5ce00c9df5a1.jpg)
+
