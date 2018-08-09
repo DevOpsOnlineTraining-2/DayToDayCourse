@@ -1,5 +1,5 @@
 
-# 08th Aug 2018 - Today's topics:
+# 09th Aug 2018 - Today's topics:
 
 #### 1. First 4 weeks plan.
 
